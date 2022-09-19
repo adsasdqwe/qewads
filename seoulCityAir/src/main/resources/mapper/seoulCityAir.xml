@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<mapper namespace="seoulCityAir_sql">
-	<select id="select-all" resultType="">
-	SELECT * from seoulCityAir_tbl2
-	</select>
-</mapper>

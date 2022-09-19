@@ -1,10 +1,10 @@
-package com.example.seoulCityAir;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SeoulCityAirApplicationTests {
+class SeoulApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.example.seoulCityAir;
+package com.example.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SeoulCityAirApplication {
+public class SeoulApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SeoulCityAirApplication.class, args);
+		SpringApplication.run(SeoulApplication.class, args);
 	}
 
 }
